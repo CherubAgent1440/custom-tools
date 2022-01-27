@@ -2,7 +2,7 @@
 ## Instructions
 The _**`bold italic code`**_ after an item type is the custom name an item needs to have. The (`bracketted code`) that follows is the base item's id name.
 ### Artifacts
-Need to be found. All have `Artifact` for lore/notes (which can only be generated via commands)
+Need to be found. All have **`Artifact`** for lore/notes (which can only be generated via commands)
 - Sword _**`Islingr`**_ (`diamond_sword`)
 - Sword _**`Katana of Light`**_ (`diamond_sword`)
 - Sword _**`Katana of Shadow`**_ (`diamond_sword`)
